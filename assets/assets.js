@@ -100,10 +100,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web development', description: 'Web development is the process of building, programming web application...', link: '' },
-    { icon: assets.java_icon, title: 'Java development', description: 'Java development involves creating appliction for desktop devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience for the user...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication and graphics...', link: '' },
+    { icon: assets.web_icon, title: 'Web development', description: 'Web development is the process of building, programming web application...', link: 'https://www.geeksforgeeks.org/web-tech/web-technology/' },
+    { icon: assets.java_icon, title: 'Java development', description: 'Java development involves creating appliction for desktop devices...', link: 'https://www.geeksforgeeks.org/java/java/' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience for the user...', link: 'https://www.geeksforgeeks.org/techtips/principles-of-ui-ux-design/' },
+    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication and graphics...', link: 'https://www.geeksforgeeks.org/computer-graphics/computer-graphics-2/' },
 ]
 
 export const infoList = [

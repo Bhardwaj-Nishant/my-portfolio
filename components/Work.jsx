@@ -50,12 +50,13 @@ const Work = ({isDarkMode}) => {
                     <h2 className='font-semibold'>{project.title}</h2>
                     <p className='text-sm text-gray-700'>{project.description}</p>
                     </div></a>   
-
+                    
+                    <a target='_blank' href="https://github.com/Bhardwaj-Nishant">
                     <div className='border rounded-full border-black w-9 aspect-square flex items-center 
                                     justify-center shadow-[2px_2px_0_#000] group-hover:bg-pink-200 transition'>
-                                      <a target='_blank' href="https://github.com/Bhardwaj-Nishant">
-                                      <Image src={assets.send_icon} alt='send icon' className='w-5'/></a>
+                                      <Image src={assets.send_icon} alt='send icon' className='w-5'/>
                     </div>
+                    </a>
                 </div>
             </motion.div>
         ))}

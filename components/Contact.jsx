@@ -2,10 +2,11 @@ import React, {useState} from 'react'
 import Image from 'next/image'
 import { assets } from '@/assets/assets'
 import { motion } from "motion/react"
+import Link from 'next/link'
 
 const Contact = () => {
 
-    const [result, setResult] = useState("");
+  const [result, setResult] = useState("");
 
   const onSubmit = async (event) => {
     event.preventDefault();
