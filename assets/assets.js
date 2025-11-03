@@ -88,8 +88,8 @@ export const workData = [
         bgImage: '/work-2.png',
     },
     {
-        title: 'Web App',
-        description: 'Web Design',
+        title: 'Weatherly',
+        description: 'Weather App',
         bgImage: '/work-3.png',
         link: 'https://weatherly-pu0y.onrender.com/',
     },
