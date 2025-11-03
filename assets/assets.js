@@ -91,6 +91,7 @@ export const workData = [
         title: 'Web App',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        link: 'https://weatherly-pu0y.onrender.com/',
     },
     {
         title: 'UI/UX Designing',
